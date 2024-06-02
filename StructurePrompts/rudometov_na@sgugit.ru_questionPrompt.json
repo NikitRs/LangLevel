@@ -1,0 +1,227 @@
+[
+    {
+        "1 Question": "1. Which sentence is correct?  ",
+        "1 Options": {
+            "Option a": "A) He don't like pizza.",
+            "Option b": "B) He doesn't like pizza.",
+            "Option c": "C) He not likes pizza.",
+            "Option d": "D) He does like pizza."
+        }
+    },
+    {
+        "2 Question": "2. Choose the correct form of the verb: \"She ________________ to school every day.\"  ",
+        "2 Options": {
+            "Option a": "A) go",
+            "Option b": "B) goes",
+            "Option c": "C) went",
+            "Option d": "D) gone"
+        }
+    },
+    {
+        "3 Question": "3. What is the plural of \"child\"?  ",
+        "3 Options": {
+            "Option a": "A) childs",
+            "Option b": "B) childen",
+            "Option c": "C) child",
+            "Option d": "D) children"
+        }
+    },
+    {
+        "4 Question": "4. Which word is the adverb in the sentence? \"She quickly ran to catch the bus.\"  ",
+        "4 Options": {
+            "Option a": "A) ran",
+            "Option b": "B) catch",
+            "Option c": "C) quickly",
+            "Option d": "D) bus"
+        }
+    },
+    {
+        "5 Question": "5. Fill in the blank: \"I ________________ my homework before dinner.\"  ",
+        "5 Options": {
+            "Option a": "A) doing",
+            "Option b": "B) done",
+            "Option c": "C) does",
+            "Option d": "D) do"
+        }
+    },
+    {
+        "6 Question": "6. What type of conjunction is \"however\" in the sentence: \"I wanted to go; however, I stayed.\"  ",
+        "6 Options": {
+            "Option a": "A) correlative",
+            "Option b": "B) coordinating",
+            "Option c": "C) subordinating",
+            "Option d": "D) conjunctive"
+        }
+    },
+    {
+        "7 Question": "7. Choose the correct possessive form: \"The cat licked _______ paws.\"  ",
+        "7 Options": {
+            "Option a": "A) its",
+            "Option b": "B) it's",
+            "Option c": "C) his",
+            "Option d": "D) he's"
+        }
+    },
+    {
+        "8 Question": "8. Identify the gerund in the sentence: \"Swimming is her favorite activity.\"  ",
+        "8 Options": {
+            "Option a": "A) swimming",
+            "Option b": "B) is",
+            "Option c": "C) favorite",
+            "Option d": "D) activity"
+        }
+    },
+    {
+        "9 Question": "9. What is the meaning of the homograph \"tear\"?  ",
+        "9 Options": {
+            "Option a": "A) liquid from eyes",
+            "Option b": "B) rip",
+            "Option c": "C) past tense of \"wear\"",
+            "Option d": "D) damage"
+        }
+    },
+    {
+        "10 Question": "10. Choose the correct form of the verb: \"I ________________ the movie last night.\"  ",
+        "10 Options": {
+            "Option a": "A) seen",
+            "Option b": "B) saw",
+            "Option c": "C) see",
+            "Option d": "D) seeing"
+        }
+    },
+    {
+        "11 Question": "11. Which sentence is grammatically incorrect?  ",
+        "11 Options": {
+            "Option a": "A) She sings good.",
+            "Option b": "B) He feels well.",
+            "Option c": "C) I am real tired.",
+            "Option d": "D) They are happy."
+        }
+    },
+    {
+        "12 Question": "12. Which word is the preposition in the sentence: \"He sat on the chair.\"  ",
+        "12 Options": {
+            "Option a": "A) sat",
+            "Option b": "B) chair",
+            "Option c": "C) he",
+            "Option d": "D) on"
+        }
+    },
+    {
+        "13 Question": "13. Fill in the blank: \"When are you ________________ to the party?\"  ",
+        "13 Options": {
+            "Option a": "A) going",
+            "Option b": "B) goes",
+            "Option c": "C) went",
+            "Option d": "D) go"
+        }
+    },
+    {
+        "14 Question": "14. What is the comparative form of \"good\"?  ",
+        "14 Options": {
+            "Option a": "A) goodest",
+            "Option b": "B) best",
+            "Option c": "C) gooder",
+            "Option d": "D) better"
+        }
+    },
+    {
+        "15 Question": "15. Choose the correct plural form: \"The man has one sheep. He has two _______.\"  ",
+        "15 Options": {
+            "Option a": "A) sheeps",
+            "Option b": "B) sheep",
+            "Option c": "C) sheepes",
+            "Option d": "D) sheepen"
+        }
+    },
+    {
+        "16 Question": "16. Which sentence is correct?  ",
+        "16 Options": {
+            "Option a": "A) I am taller than him.",
+            "Option b": "B) She sings good.",
+            "Option c": "C) He run quickly.",
+            "Option d": "D) They has a dog."
+        }
+    },
+    {
+        "17 Question": "17. What type of pronoun is \"who\" in the sentence: \"She is the one who called you.\"  ",
+        "17 Options": {
+            "Option a": "A) personal",
+            "Option b": "B) relative",
+            "Option c": "C) possessive",
+            "Option d": "D) demonstrative"
+        }
+    },
+    {
+        "18 Question": "18. Correct the sentence: \"I could of helped you.\"  ",
+        "18 Options": {
+            "Option a": "A) I could help you.",
+            "Option b": "B) I could've helped you.",
+            "Option c": "C) I should helped you.",
+            "Option d": "D) I could had helped you."
+        }
+    },
+    {
+        "19 Question": "19. Choose the correct form of the verb: \"They ________________ to the mall to buy clothes.\"  ",
+        "19 Options": {
+            "Option a": "A) goes",
+            "Option b": "B) going",
+            "Option c": "C) go",
+            "Option d": "D) went"
+        }
+    },
+    {
+        "20 Question": "20. Identify the infinitive form of the verb \"to be\" in the sentence: \"I want to be successful.\"  ",
+        "20 Options": {
+            "Option a": "A) want",
+            "Option b": "B) to",
+            "Option c": "C) be",
+            "Option d": "D) successful"
+        }
+    },
+    {
+        "21 Question": "21. What is the superlative form of \"far\"?  ",
+        "21 Options": {
+            "Option a": "A) farther",
+            "Option b": "B) more far",
+            "Option c": "C) fartherest",
+            "Option d": "D) furthest"
+        }
+    },
+    {
+        "22 Question": "22. Which sentence is correct?  ",
+        "22 Options": {
+            "Option a": "A) She want a puppy.",
+            "Option b": "B) He is eat lunch.",
+            "Option c": "C) You are happy.",
+            "Option d": "D) They were sleeping."
+        }
+    },
+    {
+        "23 Question": "23. Fill in the blank: \"Could you please ________________ the door for me?\"  ",
+        "23 Options": {
+            "Option a": "A) close",
+            "Option b": "B) closed",
+            "Option c": "C) closing",
+            "Option d": "D) closee"
+        }
+    },
+    {
+        "24 Question": "24. What is the correct plural form of \"cactus\"?  ",
+        "24 Options": {
+            "Option a": "A) cactuss",
+            "Option b": "B) cacti",
+            "Option c": "C) cactuses",
+            "Option d": "D) cactu"
+        }
+    },
+    {
+        "25 Question": "25. Which word is the conjunction in the sentence: \"I like both chocolate and vanilla ice cream.\"  ",
+        "25 Options": {
+            "Option a": "A) like",
+            "Option b": "B) chocolate",
+            "Option c": "C) both",
+            "Option d": "D) and"
+        }
+    }
+]
